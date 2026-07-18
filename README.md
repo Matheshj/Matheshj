@@ -37,22 +37,22 @@
 
 
 ### Databases
-<br>
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 
 
 ### Cloud & DevOps
-<br>
+
 <img src="https://skillicons.dev/icons?i=aws,linux" />
 
 ### Data Visualization
-<br>
+
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 ### IoT
-<br>
+
 <img src="https://skillicons.dev/icons?i=arduino" />
 
 </p>
