@@ -42,9 +42,6 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 
-### Big Data
-<br>
-<img src="https://skillicons.dev/icons?i=hadoop" />
 
 ### Cloud & DevOps
 <br>
