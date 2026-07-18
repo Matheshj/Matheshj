@@ -31,8 +31,7 @@
 <img src="https://skillicons.dev/icons?i=c,python,java" />
 
 ### Data Science & AI
-<img src="https://skillicons.dev/icons?i=tensorflow,pandas" />
-<br><br>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
@@ -40,7 +39,7 @@
 ### Databases
 <br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+
 
 
 ### Cloud & DevOps
