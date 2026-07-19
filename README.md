@@ -91,17 +91,20 @@
 
 ## 💡 Featured Projects
 
-### 🌾 Rice Plant Disease Prediction and Growth Analysis
-- Deep Learning project for detecting rice plant diseases using image classification.
+### 📏 Distance Measurement Device Using Ultrasonic Sensor
+- Arduino-based distance measurement system using ultrasonic sensors.
 
 ### ⚡ GSM-Based Prepaid Electricity Metering System Using Arduino
 - IoT-based smart prepaid electricity meter with GSM alerts and automated power control.
 
-### 📊 Crime Analysis Dashboard
-- Interactive Tableau dashboard for crime trend analysis and visualization.
+### 🌍 Reduce Mortality From Non-Communicable Diseases and Promote Mental Health
+- A Machine Learning-based Healthcare Analytics Project to Predict Non-Communicable Diseases and Support Mental Health Awareness 
 
-### 📏 Distance Measurement Device Using Ultrasonic Sensor
-- Arduino-based distance measurement system using ultrasonic sensors.
+### 💳 Credit Card Fraud Detection Using Hadoop, Apache Spark, and PySpark
+- A Big Data Analytics project that detects fraudulent credit card transactions using Hadoop, Apache Spark, and PySpark for scalable and real-time fraud detection.
+
+### 🌾 Rice Plant Disease Prediction and Growth Analysis
+- Deep Learning project for detecting rice plant diseases using image classification.
 
 ---
 
